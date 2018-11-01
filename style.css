@@ -1,0 +1,24 @@
+body {
+    font-family: 'ABeeZee';
+    font-style: normal;
+    position: relative;
+    left:15%;
+    font-size: 1.5em;
+    width:100%;
+    height:auto;
+} 
+#charts {
+    color:gray;
+    font-size: 1em;
+}
+.fa.fa-spinner {
+    display:block;
+    position: absolute;
+    bottom:-3em;
+    font-size:2em;
+    color:rgb(0, 225, 255);
+}
+#header {
+    position: relative;
+    left:30%;
+}

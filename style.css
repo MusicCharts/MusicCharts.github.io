@@ -4,9 +4,13 @@ body {
     position: relative;
     left:15%;
     font-size: 1.5em;
-    width:100%;
-    height:auto;
+    width: 50%;
 } 
+@media only screen and (max-width:800px){
+    body {
+        width:100%;
+    }
+}
 #charts {
     color:gray;
     font-size: 1em;
